@@ -3,7 +3,7 @@
 **Your comprehensive toolkit of powerful AI prompts, system configurations, and agent templates for ChatGPT, Claude, and AI coding tools.**
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![Prompts](https://img.shields.io/badge/Prompts-5%20(Growing)-blue.svg)]()
+[![Prompts](https://img.shields.io/badge/Prompts-7%20(Growing)-blue.svg)]()
 [![Tools](https://img.shields.io/badge/AI%20Tools-8+-green.svg)]()
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
 
@@ -57,8 +57,10 @@ Prompts for marketing and content:
 - Marketing copy (landing pages, emails, ads)
 - Video scripts and newsletter templates
 
-### 🔧 [Coding & Development](./coding-development/)
+### 🔧 [Development](./development/)
 Development-focused prompts:
+- API development (CRUD, raw SQL, FastAPI)
+- UI/UX (React modernization, components, accessibility)
 - Code generation (React, APIs, databases)
 - Code review and debugging
 - Refactoring and testing
@@ -75,13 +77,17 @@ Collaborative AI development workflows:
 
 ## 🎓 Quick Start
 
-### ✅ Available Now (5 Prompts)
+### ✅ Available Now (7 Prompts)
 
 **AI Coding Agents:**
 - [Python Code Agent](./ai-coding-tools/windsurf/system-prompts/python-agent.md) - PEP 8 compliant Python development
 - [TypeScript Code Agent](./ai-coding-tools/windsurf/system-prompts/typescript-agent.md) - Type-safe TypeScript development
 - [Code Review Agent](./custom-agents/specialized-agents/code-review-agent.md) - Structured code reviews
 - [Security Audit Agent](./custom-agents/specialized-agents/security-agent.md) - Security-first coding
+
+**Development Prompts:**
+- [Implement CRUD with Raw SQL](./development/api/implement-crud-raw-sql.md) - FastAPI CRUD endpoints without ORM
+- [Modernize React UI](./development/ui/modernize-react-ui.md) - Transform basic UI to modern design
 
 **Templates:**
 - [Prompt Template](./templates/prompt-template.md) - Create your own prompts
