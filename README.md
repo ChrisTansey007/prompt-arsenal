@@ -3,7 +3,7 @@
 **Your comprehensive toolkit of powerful AI prompts, system configurations, and agent templates for ChatGPT, Claude, and AI coding tools.**
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![Prompts](https://img.shields.io/badge/Prompts-100+-blue.svg)]()
+[![Prompts](https://img.shields.io/badge/Prompts-5%20(Growing)-blue.svg)]()
 [![Tools](https://img.shields.io/badge/AI%20Tools-8+-green.svg)]()
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
 
@@ -73,31 +73,32 @@ Collaborative AI development workflows:
 
 ---
 
-## 🚀 Quick Start
+## 🎓 Quick Start
 
-### Option 1: Browse by Category
-Navigate to any category above to explore prompts organized by use case.
+### ✅ Available Now (5 Prompts)
 
-### Option 2: Search by Tag
-Use GitHub's search with tags like:
-- `#python` `#javascript` `#react`
-- `#cursor` `#windsurf` `#copilot`
-- `#content` `#seo` `#debugging`
-
-### Option 3: Popular Prompts
-
-**For Code Development:**
-- [Python Code Agent](./ai-coding-tools/windsurf/python-agent.md) - PEP 8 compliant Python development
-- [Security-Focused Agent](./custom-agents/specialized-agents/security-agent.md) - Security-first coding
+**AI Coding Agents:**
+- [Python Code Agent](./ai-coding-tools/windsurf/system-prompts/python-agent.md) - PEP 8 compliant Python development
+- [TypeScript Code Agent](./ai-coding-tools/windsurf/system-prompts/typescript-agent.md) - Type-safe TypeScript development
 - [Code Review Agent](./custom-agents/specialized-agents/code-review-agent.md) - Structured code reviews
+- [Security Audit Agent](./custom-agents/specialized-agents/security-agent.md) - Security-first coding
 
-**For Content Creation:**
-- [Blog Writer Agent](./custom-agents/content-creation-agents/blog-writer-agent.md) - SEO-optimized articles
-- [Social Media Agent](./custom-agents/content-creation-agents/social-media-agent.md) - Platform-specific posts
+**Templates:**
+- [Prompt Template](./templates/prompt-template.md) - Create your own prompts
 
-**For AI Coding Tools:**
-- [Windsurf Cascade Rules](./ai-coding-tools/windsurf/cascade-rules.md) - Optimal Windsurf configuration
-- [Cursor Rules Template](./ai-coding-tools/cursor/cursorrules-templates.md) - .cursorrules for any project
+### 🚧 Coming Soon (100+ Planned)
+
+We're actively building a comprehensive prompt library! Contributions welcome.
+
+**Planned Categories:**
+- 🚧 Prompting Techniques (Zero-shot, Few-shot, Chain of Thought, etc.)
+- 🚧 Content Creation (Blog posts, social media, SEO)
+- 🚧 Coding & Development (Code generation, debugging, refactoring)
+- 🚧 Business & Productivity (Email, customer support, project management)
+- 🚧 Research & Analysis (Data analysis, summarization)
+- 🚧 Creative Writing (Storytelling, brainstorming)
+
+**Want to contribute?** See [CONTRIBUTING.md](CONTRIBUTING.md) or [open an issue](https://github.com/ChrisTansey007/prompt-arsenal/issues) to request a prompt!
 
 ---
 
@@ -152,17 +153,42 @@ See [CONTRIBUTING.md](./CONTRIBUTING.md) for detailed guidelines.
 
 ---
 
-## 📋 Repository Stats
+## 📊 Stats
 
-- **Total Prompts:** 100+
-- **Categories:** 7
-- **AI Coding Tools:** 8
-- **Custom Agents:** 15+
+- **Prompts:** 5 (100+ planned)
+- **AI Agent Prompts:** 4
+- **Templates:** 1
+- **Coding Tools Supported:** 8+
 - **Contributors:** Growing!
+- **100% Open Source**
 
 ---
 
-## 🔗 Resources
+## 📈 Related Arsenal Projects
+
+**🤖 prompt-arsenal** ⭐️ YOU ARE HERE  
+Reusable prompts and AI agent configurations
+
+**🤖 [windsurf-memories-arsenal](https://github.com/ChrisTansey007/windsurf-memories-arsenal)**  
+Project context and standards that Cascade remembers
+
+**🔩 [ai-rules-arsenal](https://github.com/ChrisTansey007/ai-rules-arsenal)**  
+Framework-specific development rules and patterns
+
+**🔄 [ai-workflows-arsenal](https://github.com/ChrisTansey007/ai-workflows-arsenal)**  
+Multi-step automation workflows for common tasks  
+↳ **Works with:** [Security Scan Workflow](https://github.com/ChrisTansey007/ai-workflows-arsenal/blob/main/windsurf/code-quality/security-scan.md) + [Security Agent](./custom-agents/specialized-agents/security-agent.md)
+
+**📈 [ai-scripts-arsenal](https://github.com/ChrisTansey007/ai-scripts-arsenal)**  
+Automation scripts for repository setup
+
+**🔗 [arsenal-integration-hub](https://github.com/ChrisTansey007/arsenal-integration-hub)**  
+Complete examples showing how to use all Arsenal tools together  
+↳ **Start here:** [Installation Guide](https://github.com/ChrisTansey007/arsenal-integration-hub#-quick-start)
+
+---
+
+## 📖 Resources
 
 ### Learn More
 - 🌐 [Chris Creates with AI](https://chriscreateswithai.com) - Guides, tutorials, and prompting techniques
