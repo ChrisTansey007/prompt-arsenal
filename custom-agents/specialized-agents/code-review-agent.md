@@ -1,3 +1,14 @@
+---
+id: prm.code-review-agent
+type: prompt
+title: Code Review Agent
+tags: [code-review, quality, agent, development, best-practices]
+summary: Specialized AI agent for comprehensive code review focusing on quality, security, performance, and best practices.
+role: system
+audience: engineering
+version: 1
+---
+
 # Code Review Agent
 
 ## Agent Type

@@ -1,3 +1,14 @@
+---
+id: prm.security-agent
+type: prompt
+title: Security Audit Agent
+tags: [security, audit, agent, vulnerability, compliance]
+summary: Specialized AI agent for security auditing, vulnerability scanning, and compliance checking in codebases.
+role: system
+audience: engineering
+version: 1
+---
+
 # Security-Focused Agent
 
 ## Agent Type

@@ -1,3 +1,20 @@
+<#
+---
+id: scr.prompt-arsenal-launch-ps
+type: script
+title: Prompt Arsenal Launch Script (PowerShell)
+tags: [git, github, repository, launch, prompt-arsenal, powershell]
+summary: Automated PowerShell script to initialize git, create GitHub repository, and push Prompt Arsenal to GitHub on Windows.
+runner: pwsh
+platforms: [windows]
+requires: [pwsh, git, gh]
+dangerous: true
+examples:
+  - "./launch.ps1"
+version: 1
+---
+#>
+
 # Prompt Arsenal - Automated Launch Script (PowerShell)
 # This script will initialize git, create GitHub repo, and push everything
 

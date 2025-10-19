@@ -1,4 +1,20 @@
 #!/bin/bash
+
+# ---
+# id: scr.prompt-arsenal-launch
+# type: script
+# title: Prompt Arsenal Launch Script
+# tags: [git, github, repository, launch, prompt-arsenal]
+# summary: Automated script to initialize git, create GitHub repository, and push Prompt Arsenal to GitHub.
+# runner: bash
+# platforms: [macos, linux]
+# requires: [bash, git, gh]
+# dangerous: true
+# examples:
+#   - "./launch.sh"
+# version: 1
+# ---
+
 # Prompt Arsenal - Automated Launch Script (Bash)
 # This script will initialize git, create GitHub repo, and push everything
 

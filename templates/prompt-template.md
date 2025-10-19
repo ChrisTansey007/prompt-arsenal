@@ -1,3 +1,14 @@
+---
+id: prm.template
+type: prompt
+title: Prompt Template
+tags: [template, documentation, howto]
+summary: Template for creating new prompts with standardized structure and front-matter.
+role: user
+audience: contributors
+version: 1
+---
+
 # [Prompt Title]
 
 ## Category
