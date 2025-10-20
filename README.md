@@ -3,7 +3,7 @@
 **Your comprehensive toolkit of powerful AI prompts, system configurations, and agent templates for ChatGPT, Claude, and AI coding tools.**
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![Prompts](https://img.shields.io/badge/Prompts-8%20(Growing)-blue.svg)]()
+[![Prompts](https://img.shields.io/badge/Prompts-10%20(Growing)-blue.svg)]()
 [![Tools](https://img.shields.io/badge/AI%20Tools-8+-green.svg)]()
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
 
@@ -77,7 +77,7 @@ Collaborative AI development workflows:
 
 ## 🎓 Quick Start
 
-### ✅ Available Now (8 Prompts)
+### ✅ Available Now (10 Prompts)
 
 **AI Coding Agents:**
 - [Python Code Agent](./ai-coding-tools/windsurf/system-prompts/python-agent.md) - PEP 8 compliant Python development
@@ -89,6 +89,10 @@ Collaborative AI development workflows:
 - [Implement CRUD with Raw SQL](./development/api/implement-crud-raw-sql.md) - FastAPI CRUD endpoints without ORM
 - [Modernize React UI](./development/ui/modernize-react-ui.md) - Transform basic UI to modern design
 - [Email Provider Preset Generator](./development/email/generate-provider-preset.md) - Generate complete email provider configs with IMAP/SMTP/OAuth
+
+**Meta-Prompting:**
+- [Prompt Forensics Analyzer](./meta-prompting/prompt-forensics-analyzer.md) - Analyze conversation threads to extract patterns and prompts
+- [Insights Intake Processor](./meta-prompting/insights-intake-processor.md) - Process forensics output for Arsenal integration
 
 **Templates:**
 - [Prompt Template](./templates/prompt-template.md) - Create your own prompts
