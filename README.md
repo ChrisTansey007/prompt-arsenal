@@ -231,8 +231,41 @@ Complete examples showing how to use all Arsenal tools together
 - [Windsurf](https://codeium.com/windsurf) - Agentic IDE
 - [Cursor](https://cursor.sh) - AI-first code editor
 - [GitHub Copilot](https://github.com/features/copilot) - AI pair programmer
-- [Claude](https://claude.ai) - Advanced AI assistant
-- [ChatGPT](https://chat.openai.com) - OpenAI's chat interface
+
+---
+
+## 🔗 Arsenal Ecosystem
+
+**Prompt Arsenal is part of the complete Arsenal ecosystem for AI-powered development.**
+
+### Content Repositories
+- **[Windsurf Memories Arsenal](https://github.com/ChrisTansey007/windsurf-memories-arsenal)** - What Cascade remembers (context & project knowledge)
+- **[Prompt Arsenal](https://github.com/ChrisTansey007/prompt-arsenal)** - What to ask/build (26 production-ready prompts) ← YOU ARE HERE
+- **[AI Rules Arsenal](https://github.com/ChrisTansey007/ai-rules-arsenal)** - How Cascade behaves (behavior rules & standards)
+- **[AI Workflows Arsenal](https://github.com/ChrisTansey007/ai-workflows-arsenal)** - Multi-step processes (automated workflows)
+- **[AI Scripts Arsenal](https://github.com/ChrisTansey007/ai-scripts-arsenal)** - Automation scripts (deployment, testing, etc.)
+
+### Integration & Tooling
+- **[Arsenal Integration Hub](https://github.com/ChrisTansey007/arsenal-integration-hub)** - How to use them together (examples & guides)
+- **[Arsenal Context Server](https://github.com/ChrisTansey007/arsenal-context-server)** - MCP context delivery (serve prompts via MCP)
+- **[Arsenal CLI](https://github.com/ChrisTansey007/arsenal-cli)** - Command-line management (search, install, update prompts)
+- **[Arsenal MCP Server](https://github.com/ChrisTansey007/arsenal-mcp-server)** - Model Context Protocol server (full Arsenal access)
+
+### 🚀 Using Prompts with MCP
+
+Access all prompts programmatically via Model Context Protocol:
+
+```bash
+# Install Arsenal MCP Server
+npm install -g @arsenal/mcp-server
+
+# Or use Arsenal CLI
+npm install -g arsenal-cli
+arsenal prompt search "authentication"
+arsenal prompt use structured-document-architect
+```
+
+**See [Arsenal Integration Hub](https://github.com/ChrisTansey007/arsenal-integration-hub) for complete setup guides!**
 
 ---
 
