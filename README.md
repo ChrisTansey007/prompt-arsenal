@@ -3,7 +3,7 @@
 **Your comprehensive toolkit of powerful AI prompts, system configurations, and agent templates for ChatGPT, Claude, and AI coding tools.**
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![Prompts](https://img.shields.io/badge/Prompts-14%20(Growing)-blue.svg)]()
+[![Prompts](https://img.shields.io/badge/Prompts-26%20(Growing)-blue.svg)]()
 [![Tools](https://img.shields.io/badge/AI%20Tools-8+-green.svg)]()
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
 
@@ -77,7 +77,7 @@ Collaborative AI development workflows:
 
 ## 🎓 Quick Start
 
-### ✅ Available Now (14 Prompts)
+### ✅ Available Now (26 Prompts)
 
 **AI Coding Agents:**
 - [Python Code Agent](./ai-coding-tools/windsurf/system-prompts/python-agent.md) - PEP 8 compliant Python development
@@ -98,9 +98,22 @@ Collaborative AI development workflows:
 **Quality Assurance:**
 - [Self-Score Output Quality](./quality-assurance/self-score-output.md) - AI self-review with quality scoring
 
-**Meta-Prompting:**
+**Automation & Workflow:**
+- [Zapier MCP Tools Librarian](./automation/workflow/prompt-insights-zapier-mcp-tools-thread.md) - Generate scoped, verified Zapier tool lists
+- [N8N Workflow Builder](./automation/workflow/prompt-insights-n8n-workflow-programmatic-thread.md) - Build programmatic n8n workflows
+
+**AI Analysis & Meta-Prompting:**
 - [Prompt Forensics Analyzer](./meta-prompting/prompt-forensics-analyzer.md) - Analyze conversation threads to extract patterns and prompts
 - [Insights Intake Processor](./meta-prompting/insights-intake-processor.md) - Process forensics output for Arsenal integration
+- [SEO FAQ Analyzer](./ai-prompting/analysis/prompt-insights-seo-faq-ranking-thread.md) - Analyze and optimize FAQ content for SEO
+- [Pine Script Refactoring](./ai-prompting/analysis/prompt-insights-refactoring-a-pine-script-v6.md) - Refactor TradingView Pine Script code
+- [Forensics Chainmining](./ai-prompting/analysis/prompt-insights-forensics-chainmining-and-upgrades.md) - Chain analysis and upgrade paths
+- [AnyDoc Studio Analyzer](./ai-prompting/analysis/prompt-insights-anydoc-studio-thread.md) - Document analysis and processing
+- [Croquet Venture Analysis](./ai-prompting/analysis/prompt-insights-croquet-venture-thread.md) - Business venture analysis
+- [SEO Agent Builder](./ai-prompting/analysis/prompt-insights-port-city-fence-seoaeo-agent.md) - Build SEO optimization agents
+- [Thread Audit Report](./ai-prompting/analysis/prompt-forensics-report-prior-thread-audit.md) - Comprehensive conversation audits
+- [Repo Audit Analyzer](./ai-prompting/analysis/prompt-forensics-report-repo-audit-prompt-design.md) - Repository structure and prompt analysis
+- [Super-Prompt Forensics](./ai-prompting/analysis/super-prompt-forensics-opportunity-audit.md) - Meta-analysis of prompts
 
 **Templates:**
 - [Prompt Template](./templates/prompt-template.md) - Create your own prompts
