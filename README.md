@@ -3,7 +3,7 @@
 **Your comprehensive toolkit of powerful AI prompts, system configurations, and agent templates for ChatGPT, Claude, and AI coding tools.**
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![Prompts](https://img.shields.io/badge/Prompts-26%20(Growing)-blue.svg)]()
+[![Prompts](https://img.shields.io/badge/Prompts-27%20(Growing)-blue.svg)]()
 [![Tools](https://img.shields.io/badge/AI%20Tools-8+-green.svg)]()
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
 
@@ -77,7 +77,7 @@ Collaborative AI development workflows:
 
 ## 🎓 Quick Start
 
-### ✅ Available Now (26 Prompts)
+### ✅ Available Now (27 Prompts)
 
 **AI Coding Agents:**
 - [Python Code Agent](./ai-coding-tools/windsurf/system-prompts/python-agent.md) - PEP 8 compliant Python development
@@ -104,6 +104,7 @@ Collaborative AI development workflows:
 
 **AI Analysis & Meta-Prompting:**
 - [Prompt Forensics Analyzer](./meta-prompting/prompt-forensics-analyzer.md) - Analyze conversation threads to extract patterns and prompts
+- [RuleMiner - Extract Rules](./meta-prompting/ruleminer-extract-rules.md) - 🆕 Systematically extract actionable, repo-specific Rules from conversations and workspace
 - [Insights Intake Processor](./meta-prompting/insights-intake-processor.md) - Process forensics output for Arsenal integration
 - [SEO FAQ Analyzer](./ai-prompting/analysis/prompt-insights-seo-faq-ranking-thread.md) - Analyze and optimize FAQ content for SEO
 - [Pine Script Refactoring](./ai-prompting/analysis/prompt-insights-refactoring-a-pine-script-v6.md) - Refactor TradingView Pine Script code
